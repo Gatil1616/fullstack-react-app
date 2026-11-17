@@ -1,0 +1,22 @@
+
+.App {
+    text-align: center;
+    background-color: #171820;
+    min-height: 100vh;
+    color: white;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    color: #a9c8e8;
+    font-size: 20px;
+}
